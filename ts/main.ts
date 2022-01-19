@@ -1,5 +1,3 @@
-//får error "cannot redeclare block-scoped variable" utan window.onload
-
 let firstName:string = 'Malcolm';
 let age:number = 28;
 

@@ -1,4 +1,3 @@
-//får error "cannot redeclare block-scoped variable" utan window.onload
 var firstName = 'Malcolm';
 var age = 28;
 console.log('Name: ' + firstName + ', Age: ' + age);
